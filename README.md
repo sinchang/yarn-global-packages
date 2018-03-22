@@ -17,6 +17,10 @@ yarnGlobalPackages()
 // [ { name: 'cmdstats', version: '^0.0.2' } ]
 ```
 
+## Related projects
+
+* [yarn-global-packages-cli](https://github.com/sinchang/yarn-global-packages-cli)
+
 ## Contributing
 
 1.  Fork it!
