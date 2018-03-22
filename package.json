@@ -1,6 +1,6 @@
 {
   "name": "yarn-global-packages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "get yarn global packages",
   "repository": {
     "url": "sinchang/yarn-global-packages",
