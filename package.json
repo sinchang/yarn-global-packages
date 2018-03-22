@@ -1,0 +1,28 @@
+{
+  "name": "yarn-global-packages",
+  "version": "0.0.0",
+  "description": "get yarn global packages",
+  "repository": {
+    "url": "sinchang/yarn-global-packages",
+    "type": "git"
+  },
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "npm run lint && jest",
+    "lint": "standard",
+    "lint:fix": "standard --fix"
+  },
+  "author": "sinchang <sinchangwen@gmail.com>",
+  "license": "MIT",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "dependencies": {
+    "yarn-global-modules": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest-cli": "^22.1.4",
+    "standard": "^10.0.0"
+  }
+}
